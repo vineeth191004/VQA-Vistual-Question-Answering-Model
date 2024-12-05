@@ -1,4 +1,4 @@
-## README: Question-Answering Image Captioning System
+## Question-Answering Image Captioning System
 
 ### Overview
 
@@ -40,11 +40,6 @@ The system requires the following datasets:
      - Testing: `/content/test_combined.json`
 
 Each annotation file should contain objects with `image_path`, `Q` (question), and `A` (answer) fields.
-
-### Outputs
-
-- Predicted answers for input questions on test images.
-- Visualized test results (image, question, actual answer, predicted answer).
 
 ---
 
